@@ -3,14 +3,7 @@
 xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd"
 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
 <modelVersion>4.0.0</modelVersion>
-<groupId>com.cardinalcommerce.cardinalmobilesdk</groupId>
-<artifactId>final</artifactId>
+<groupId>com.lb.sdktest</groupId>
+<artifactId>test</artifactId>
 <version>1.0</version>
-<dependencies>
-   <dependency>
-      <groupId>androidx.appcompat</groupId>
-      <artifactId>appcompat</artifactId>
-      <version>1.6.0</version>
-   </dependency>
-</dependencies>
 </project>
