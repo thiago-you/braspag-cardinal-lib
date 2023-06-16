@@ -1,5 +1,5 @@
-# SdkTest
-Just some test for Jitpack, to see if it can handle aar files in Github.
+# Info
+`lib-cardinal` mock to trick Gradle compiler and Jitpack dependency manager
 
-Based on:
-https://medium.com/student-beans/publishing-a-library-as-a-aar-package-55ed725fa638
+See for project details:
+https://github.com/thiago-you/braspag-3ds-android
